@@ -1,16 +1,23 @@
-### Hi there 👋
+### A bit about me
+Middle .NET Software Engineer with over 5 years of experience in creating scalable web applications, developing 2D and 3D hyper-casual mobile games, educational platforms and tools, CLI utilities, and more. Worked within startups specializing in drone aviation and virtual assistant technology.
 
-<!--
-**rumrunner0/rumrunner0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Target skills
+- C#, BCL, LINQ, ASP.NET, JetBrains stack, Visual Studio
+- MSSQL, PostgreSQL, SSMS, Azure Data Studio, pgAdmin
+- Git, REST, Postman
+- SIP and VoIP, RCON, Twilio
+ 
+#### Extra skills
+- Basic knowledge of C, C++, Python
+- Experimenting with PyTorch, SBERT, OpenAI API, Telegram Bot API
+- Proficient in Adobe Photoshop, Adobe Premiere Pro, Figma
 
-Here are some ideas to get you started:
+#### Hobbies
+- Interested in sandbox environments, procedural generation, noise maps, game within a game
+- Playing modded Minecraft, table tennis, volleyball, badminton
+- Anticipating the release of Hytale to start a new era of creativity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages
+- Ukrainian
+- Russian
+- English
