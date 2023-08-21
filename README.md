@@ -14,7 +14,7 @@ Middle .NET Software Engineer with over 5 years of experience in creating scalab
 
 #### Hobbies
 - Interested in sandbox environments, procedural generation, noise maps, game within a game
-- Exploring modded Minecraft
+- Exploring Minecraft technology modpacks
 - Playing table tennis, volleyball, badminton
 - Anticipating the release of Hytale to start a new era of creativity
 
