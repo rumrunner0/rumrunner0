@@ -23,3 +23,6 @@ Middle .NET Software Engineer with over 5 years of experience in creating scalab
 - Ukrainian
 - Russian
 - English
+
+#### Certifications
+- [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/rumrunner0/foundational-c-sharp-with-microsoft)
