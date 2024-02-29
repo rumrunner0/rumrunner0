@@ -18,8 +18,8 @@ Middle .NET Software Engineer with over 5 years of experience in creating scalab
 - Anticipating the release of Hytale to start a new era of creativity
 
 #### Languages
-- Ukrainian
 - Russian
+- Ukrainian
 - English
 
 #### Certifications
