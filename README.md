@@ -3,10 +3,8 @@ Middle .NET Software Engineer with over 5 years of experience in creating scalab
 
 #### Target skills
 - C#, BCL, LINQ, EF, ASP.NET, Unity3D, JetBrains stack, Visual Studio
-- MSSQL, PostgreSQL, SSMS, Azure Data Studio, pgAdmin
-- AWS S3, EC2, Backups, Parameter store
-- Git, REST, Postman
-- SIP and VoIP, RCON, Twilio
+- Amazon AWS, MSSQL, PostgreSQL, SSMS, Azure Data Studio, pgAdmin
+- SIP and VoIP, Twilio, RCON, Git, REST, Postman
  
 #### Extra skills
 - Basic knowledge of C, C++, Python
