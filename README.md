@@ -26,3 +26,4 @@ Middle .NET Software Engineer with over 5 years of experience in creating scalab
 - [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/rumrunner0/foundational-c-sharp-with-microsoft)
 - [From Zero to Hero: LINQ in .NET](https://courses.dometrain.com/certificates/2iyiaqwlvn)
 - [From Zero to Hero: REST APIs in .NET](https://courses.dometrain.com/certificates/x4zedurq4t)
+- [Learn Python By Coding: 10 Projects](https://www.udemy.com/certificate/UC-14c2f367-4415-4713-a72f-a97f916301f8)
