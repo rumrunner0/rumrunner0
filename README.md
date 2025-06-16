@@ -1,5 +1,5 @@
 ### A bit about me
-Middle .NET Software Engineer with over 5 years of experience in creating scalable web applications, developing 2D and 3D hyper-casual mobile games, educational platforms and tools, CLI utilities, and more. Worked within startups specializing in drone aviation and virtual assistant technology.
+.NET Software Engineer with over 5 years of experience in creating scalable web applications, developing 2D and 3D hyper-casual mobile games, educational platforms and tools, CLI utilities, and more. Worked within startups specializing in drone aviation and virtual assistant technology.
 
 #### Target skills
 - C#, BCL, LINQ, EF, ASP.NET, Unity3D, JetBrains stack, Visual Studio
