@@ -3,7 +3,7 @@
 
 #### Target skills
 - C#, BCL, LINQ, EF, ASP.NET, Unity3D, JetBrains stack, Visual Studio
-- Amazon AWS, MSSQL, PostgreSQL, SSMS, Azure Data Studio, pgAdmin
+- AWS, MSSQL, PostgreSQL, SSMS, Azure Data Studio, pgAdmin
 - SIP and VoIP, Twilio, RCON, Git, REST, Postman
  
 #### Extra skills
