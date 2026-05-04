@@ -2,13 +2,13 @@
 .NET Software Engineer with over 5 years of experience in creating scalable web applications, developing 2D and 3D hyper-casual mobile games, educational platforms and tools, CLI utilities, and more. Worked within startups specializing in virtual assistant technology.
 
 #### Target skills
-- C#, BCL, LINQ, EF, ASP.NET, Unity3D, JetBrains stack, Visual Studio
+- C#, BCL, LINQ, EF, ASP.NET, Unity3D, Telegram Bot API, JetBrains stack, Visual Studio
 - AWS, MSSQL, PostgreSQL, SSMS, Azure Data Studio, pgAdmin
 - SIP and VoIP, Twilio, RCON, Git, REST, Postman
  
 #### Extra skills
 - Basic knowledge of C, C++, Python
-- Experimenting with PyTorch, SBERT, OpenAI API, Telegram Bot API
+- Experimenting with PyTorch, SBERT, OpenAI API
 - Proficient in Adobe Photoshop, Adobe Premiere Pro, Figma
 
 #### Hobbies
