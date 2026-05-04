@@ -13,9 +13,8 @@
 
 #### Hobbies
 - Interested in sandbox environments, procedural generation, noise maps, game within a game
-- Exploring Minecraft technology modpacks
+- Exploring Minecraft modpacks
 - Playing table tennis, volleyball, badminton
-- Anticipating the release of Hytale to start a new era of creativity
 
 #### Languages
 - Russian
